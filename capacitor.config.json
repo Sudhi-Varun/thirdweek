@@ -1,0 +1,12 @@
+{
+  "appId": "rxdbvarun.abcd.com",
+  "appName": "RxDB-Varun-p2p",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "http",
+    "cleartext": true,
+    "allowNavigation": [
+      "http://117.192.46.245:10103","ws://117.192.46.245:10103"
+    ]
+  }
+}
